@@ -5,4 +5,6 @@ Dojo Rules
 * Keep the dojo tidy
 * Never bring live blades on the tatami
 * Respect your opponents
-* Most Sensei's should be respected
+* Most Sensei's should be respecte
+
+* I do not see those words to change in here :(
